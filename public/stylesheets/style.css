@@ -6,7 +6,10 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
-
+p {
+  margin 5;
+  font-family: Ariel, sans-serif
+}
 /* sidebar styles */
 .nav {
   height: 100%;
